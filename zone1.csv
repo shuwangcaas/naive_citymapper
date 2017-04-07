@@ -1,0 +1,116 @@
+,line,station_name1,station_name2,time
+0,1,Baker Street,Marylebone,1
+1,1,Baker Street,Regent's Park,2
+2,1,Charing Cross,Embankment,1
+3,1,Charing Cross,Piccadilly Circus,2
+4,1,Edgware Road (B),Marylebone,2
+5,1,Edgware Road (B),Paddington,3
+6,1,Embankment,Waterloo,2
+7,1,Lambeth North,Waterloo,1
+8,1,Oxford Circus,Piccadilly Circus,2
+9,1,Oxford Circus,Regent's Park,2
+10,2,Bank,Liverpool Street,2
+11,2,Bank,St.Paul's,2
+12,2,Bond Street,Marble Arch,1
+13,2,Bond Street,Oxford Circus,1
+14,2,Chancery Lane,Holborn,1
+15,2,Chancery Lane,St.Paul's,2
+16,2,Holborn,Tottenham Court Road,2
+17,2,Lancaster Gate,Marble Arch,3
+18,2,Lancaster Gate,Queensway,1
+19,2,Oxford Circus,Tottenham Court Road,2
+20,3,Aldgate,Liverpool Street,2
+21,3,Aldgate,Tower Hill,4
+22,3,Baker Street,Edgware Road (C),3
+23,3,Baker Street,Great Portland Street,3
+24,3,Barbican,Farringdon,1
+25,3,Barbican,Moorgate,2
+26,3,Bayswater,Paddington,2
+27,3,Blackfriars,Mansion House,1
+28,3,Blackfriars,Temple,2
+29,3,Cannon Street,Mansion House,1
+30,3,Cannon Street,Monument,2
+31,3,Edgware Road (C),Paddington,3
+32,3,Embankment,Temple,2
+33,3,Embankment,Westminster,2
+34,3,Euston Square,Great Portland Street,2
+35,3,Euston Square,King's Cross St.Pancras,2
+36,3,Farringdon,King's Cross St.Pancras,4
+37,3,Gloucester Road,High Street Kensington,4
+38,3,Gloucester Road,South Kensington,1
+39,3,Liverpool Street,Moorgate,2
+40,3,Monument,Tower Hill,2
+41,3,Sloane Square,South Kensington,2
+42,3,Sloane Square,Victoria,2
+43,3,St.James's Park,Victoria,2
+44,3,St.James's Park,Westminster,2
+45,4,Aldgate East,Tower Hill,2
+46,4,Bayswater,Paddington,2
+47,4,Blackfriars,Mansion House,1
+48,4,Blackfriars,Temple,2
+49,4,Cannon Street,Mansion House,1
+50,4,Cannon Street,Monument,2
+51,4,Edgware Road (C),Paddington,3
+52,4,Embankment,Temple,2
+53,4,Embankment,Westminster,2
+54,4,Gloucester Road,South Kensington,1
+55,4,Monument,Tower Hill,2
+56,4,Sloane Square,South Kensington,2
+57,4,Sloane Square,Victoria,2
+58,4,St.James's Park,Victoria,2
+59,4,St.James's Park,Westminster,2
+60,6,Aldgate East,Liverpool Street,4
+61,6,Baker Street,Edgware Road (C),3
+62,6,Baker Street,Great Portland Street,3
+63,6,Barbican,Farringdon,1
+64,6,Barbican,Moorgate,2
+65,6,Edgware Road (C),Paddington,4
+66,6,Euston Square,Great Portland Street,2
+67,6,Euston Square,King's Cross St.Pancras,2
+68,6,Farringdon,King's Cross St.Pancras,4
+69,6,Liverpool Street,Moorgate,2
+70,7,Baker Street,Bond Street,2
+71,7,Bond Street,Green Park,2
+72,7,Green Park,Westminster,3
+73,7,London Bridge,Southwark,2
+74,7,Southwark,Waterloo,1
+75,7,Waterloo,Westminster,2
+76,8,Aldgate,Liverpool Street,2
+77,8,Baker Street,Great Portland Street,3
+78,8,Barbican,Farringdon,1
+79,8,Barbican,Moorgate,2
+80,8,Euston Square,Great Portland Street,2
+81,8,Euston Square,King's Cross St.Pancras,2
+82,8,Farringdon,King's Cross St.Pancras,4
+83,8,Liverpool Street,Moorgate,2
+84,9,Angel,King's Cross St.Pancras,2
+85,9,Angel,Old Street,3
+86,9,Bank,London Bridge,2
+87,9,Bank,Moorgate,3
+88,9,Borough,London Bridge,2
+89,9,Charing Cross,Embankment,1
+90,9,Charing Cross,Leicester Square,2
+91,9,Embankment,Waterloo,2
+92,9,Euston,King's Cross St.Pancras,2
+93,9,Euston,Warren Street,1
+94,9,Goodge Street,Tottenham Court Road,1
+95,9,Goodge Street,Warren Street,2
+96,9,Leicester Square,Tottenham Court Road,1
+97,9,Moorgate,Old Street,1
+98,10,Covent Garden,Holborn,1
+99,10,Covent Garden,Leicester Square,1
+100,10,Gloucester Road,South Kensington,1
+101,10,Green Park,Hyde Park Corner,2
+102,10,Green Park,Piccadilly Circus,1
+103,10,Holborn,Russell Square,2
+104,10,Hyde Park Corner,Knightsbridge,2
+105,10,King's Cross St.Pancras,Russell Square,2
+106,10,Knightsbridge,South Kensington,3
+107,10,Leicester Square,Piccadilly Circus,2
+108,11,Euston,King's Cross St.Pancras,2
+109,11,Euston,Warren Street,1
+110,11,Green Park,Oxford Circus,2
+111,11,Green Park,Victoria,2
+112,11,Oxford Circus,Warren Street,2
+113,11,Pimlico,Victoria,3
+114,12,Bank,Waterloo,4
